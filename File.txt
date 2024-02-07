@@ -1,1 +1,2 @@
-new server check
+new server check 1
+new server check 2
